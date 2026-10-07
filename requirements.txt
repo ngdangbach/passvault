@@ -1,0 +1,9 @@
+PyQt6>=6.5.0
+cryptography>=42.0.0
+argon2-cffi>=23.1.0
+pyotp>=2.9.0
+opencv-python>=4.8.0
+mss>=10.0.0
+Pillow>=10.0.0
+
+pyinstaller>=6.0.0
